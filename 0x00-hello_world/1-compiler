@@ -1,3 +1,3 @@
 #!/bin/bash
-gcc $CFILE -E -c o
+gcc -c $CFILE -E -o o
 
